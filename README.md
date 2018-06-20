@@ -4,8 +4,8 @@ These free curriculums help you to follow a clear, complete and update path for 
 
 Currently we are working on these curriculums:
 
-* [Web Development](https://github.com/hq-test/server-api)
-* [Mobile Development](https://github.com/hq-test/server-admin)
+* [Web Development](web-development/README.md)
+* [Mobile Development](mobile-development/README.md)
 
 ### Contributors
 
