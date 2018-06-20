@@ -1,6 +1,6 @@
 # Curriculum
 
-These free curriculums help you to follow a clear, complete and update path for your favorite technology stack.
+These free curriculums help you to follow and learn a clear, complete and update path for your favorite technology stack.
 
 Currently we are working on these curriculums:
 
