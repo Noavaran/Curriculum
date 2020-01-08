@@ -1,4 +1,4 @@
-&rlm
+<div dir="rtl">
 # سرفصل مطالب
 
 These free curriculums help you to follow and learn a clear, complete and update path for your favorite technology stack.
@@ -42,4 +42,4 @@ Sponsors according to their support can achieve advertisement in any part of lea
 
 See the [LICENSE file](LICENSE.md) for license rights and limitations (Academic Free License v3.0).
 
-&rlm
+</div>
