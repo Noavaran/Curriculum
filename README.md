@@ -4,8 +4,20 @@ These free curriculums help you to follow and learn a clear, complete and update
 
 Currently we are working on these curriculums:
 
-* [Web Development](web-development/README.md)
-* [Mobile Development](mobile-development/README.md)
+* [Computer Basics](computer-basics/README.md)
+* [Digital Design](digital-design/README.md)
+** [Website Design](web-development/README.md)
+** [Web App Design](web-development/README.md)
+** [Mobile App Design](web-development/README.md)
+* [Javascript](web-development/README.md)
+* [Frontend Development](web-development/README.md)
+* [Backend Development](web-development/README.md)
+* [Mobile Application Development](mobile-development/README.md)
+* [Project Management](web-development/README.md)
+* [Database](web-development/README.md)
+* [Algorithem & Flowcharts](web-development/README.md)
+* [Source Control](web-development/README.md)
+
 
 ### Contributors
 
