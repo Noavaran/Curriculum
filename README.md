@@ -1,7 +1,7 @@
 <div dir="rtl">
 # سرفصل مطالب
 
-These free curriculums help you to follow and learn a clear, complete and update path for your favorite technology stack.
+به کمک این سرفصل های آموزشی رایگان می توانید به صورت کامل و شفاف به سمت اهداف شغلی خود و تکنولوژی هایی که به آموزش آنها نیاز دارید قدم بردارید.
 
 Currently we are working on these curriculums:
 
@@ -22,13 +22,13 @@ Currently we are working on these curriculums:
 
 ### توسعه دهندگان
 
-[![Ali Pour Zahmatkesh Avatar](https://avatars3.githubusercontent.com/u/1408664?s=100&u=b22d3d65d5bfd0fe54a5543989bb01ce86b32853&v=4 "Ali Pour Zahmatkesh Github Profile")](https://github.com/ali-pourzahmatkesh)
+[![Ali Pour Zahmatkesh Avatar | علی پورزحمتکش](https://avatars3.githubusercontent.com/u/1408664?s=100&u=b22d3d65d5bfd0fe54a5543989bb01ce86b32853&v=4 "Ali Pour Zahmatkesh Github Profile")](https://github.com/ali-pourzahmatkesh)
 
-> [Contribution guidelines](CONTRIBUTING.md)
+> [نحوه مشارکت در سرفصل های آموزشی](CONTRIBUTING.md)
 
 ### حامیان
 
-[![Noavaran, New Creative Solutions](https://avatars3.githubusercontent.com/u/19516296?s=100&u=7e88140d387aa8b41261bfa5bd420572fe91f454&v=4)](http://noavaran.io "Noavaran, New Creative Solutions")
+[![Noavaran, New Creative Solutions | مبتکران راهکارهای نوین نوآوران](https://avatars3.githubusercontent.com/u/19516296?s=100&u=7e88140d387aa8b41261bfa5bd420572fe91f454&v=4)](http://noavaran.io "Noavaran, New Creative Solutions")
 
 ### علاقمندان به حمایت
 
@@ -40,6 +40,7 @@ Sponsors according to their support can achieve advertisement in any part of lea
 
 ### حق کپی رایت
 
-See the [LICENSE file](LICENSE.md) for license rights and limitations (Academic Free License v3.0).
-
+مستندات مربوط به حق کپی رایت در فایل زیر آورده شده است.
+[مستندات حق کپی رایت](LICENSE.md)
+در حال حاضر کپی رایت از قوانین MIT پیروی می نماید.
 </div>
